@@ -2,7 +2,7 @@
 ## Abstract
 ...
 ## Requirements
-This code was tested on Python 3.7.3. Other requirements are as follows:
+This code was tested on Python 3.7.3. Other requirements are as follows (see requirements.txt):
 - lda
 - scipy
 - sklearn
@@ -15,7 +15,6 @@ This code was tested on Python 3.7.3. Other requirements are as follows:
 - langid
 - spacy
 - treetaggerwrapper
-- (See requirements.txt)
 ## Quick Start
 - Install libraries: pip install -r requirements.txt
 - Install TreeTagger
