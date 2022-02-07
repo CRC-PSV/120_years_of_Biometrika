@@ -29,6 +29,7 @@ This code was tested on Python 3.7.3. Other requirements are as follows:
 - Execute to replicate research : Diachronic_modeling.py
 ### 5. Author modeling
 - Execute to replicate research : Author_modeling.py
+
 \*Note that for legal issues, the complete full-text of journal articles could not be included with the dataset (but can be retrieved by asking the respective publishers).
 ## Citation
 ...
