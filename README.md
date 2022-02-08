@@ -14,7 +14,6 @@ This code was tested on Python 3.7.3. Other requirements are as follows (see req
 - langdetect
 - langid
 - spacy
-- treetaggerwrapper
 ## Quick Start
 - Install libraries: pip install -r requirements.txt
 - Install TreeTagger
