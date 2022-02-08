@@ -26,6 +26,8 @@ This code was tested on Python 3.7.3. Other requirements are as follows (see req
 - Execute to replicate research : Coherence.py
 #### 3.2 LDA
 - Execute to replicate research : LDA.py
+#### 3.3 Topic interpretation and correlation
+- Execute to replicate research : Topic_interpretation_and_correlation.py
 ### 4. Diachronic modeling
 - Execute to replicate research : Diachronic_modeling.py
 ### 5. Author modeling
