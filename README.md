@@ -23,7 +23,10 @@ This code was tested on Python 3.7.3. Other requirements are as follows (see req
 ### 2. Preprocessing\*
 - Execute to replicate research : Preprocessing.py
 ### 3. Topic modeling
-- Execute to replicate research : Topic_modeling.py
+#### 3.1 Coherence\*
+- Execute to replicate research : Coherence.py
+#### 3.2 LDA
+- Execute to replicate research : LDA.py
 ### 4. Diachronic modeling
 - Execute to replicate research : Diachronic_modeling.py
 ### 5. Author modeling
