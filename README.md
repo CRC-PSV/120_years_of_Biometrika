@@ -4,16 +4,11 @@
 ## Requirements
 This code was tested on Python 3.7.3. Other requirements are as follows (see requirements.txt):
 - lda
-- scipy
-- sklearn
-- treetaggerwrapper
 - numpy
 - pandas
-- gensim
-- google-cloud-translate
-- langdetect
-- langid
-- spacy
+- sklearn
+- tmtoolkit
+- treetaggerwrapper
 ## Quick Start
 - Install libraries: pip install -r requirements.txt
 - Install TreeTagger
