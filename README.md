@@ -37,7 +37,7 @@ This code was tested on Python 3.7.3. Other requirements are as follows (see req
 ### Christophe Malaterre
 - Email: malaterre.christophe@uqam.ca
 ### Charles Pence
-- Email: charles@charlespence.net
+- Email: charles.pence@uclouvain.be
 ### Francis Lareau
 - Email: francislareau@hotmail.com
 ## Acknowledgments
