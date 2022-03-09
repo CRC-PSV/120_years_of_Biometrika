@@ -36,9 +36,9 @@ This code was tested on Python 3.7.3. Other requirements are as follows (see req
 - Email: nicola.bertoldi87@gmail.com
 ### Christophe Malaterre
 - Email: malaterre.christophe@uqam.ca
-### Charles Pence
+### Charles H. Pence
 - Email: charles.pence@uclouvain.be
 ### Francis Lareau
 - Email: francislareau@hotmail.com
 ## Acknowledgments
-C.M. acknowledges funding from Canada Foundation for Innovation (Grant 34555) and Canada Research Chairs (CRC-950-230795). F.L. acknowledges funding from the Fonds de recherche du Québec - Société et culture (FRQSC-276470).
+C.M. acknowledges funding from Canada Foundation for Innovation (Grant 34555) and Canada Research Chairs (CRC-950-230795). C.H.P. acknowlwedges funding from the Fonds de la Recherche Scientifique - FNRS (F.4526.19). F.L. acknowledges funding from the Fonds de recherche du Québec - Société et culture (FRQSC-276470).
