@@ -30,15 +30,18 @@ This code was tested on Python 3.7.3. Other requirements are as follows (see req
 
 \*Note that for legal issues, the complete full-text of journal articles could not be included with the dataset (but can be retrieved by asking the respective publishers).
 ## Citation
-...
+Please cite: Bertoldi N., Lareau F., Pence C.H., Malaterre C. (2023) A quantitative window on the history of statistics: Topic-modelling 120 years of 
+Biometrika. Digital Scholarship in the Humanities.
+
 ## Authors
 ### Nicola Bertoldi
 - Email: nicola.bertoldi87@gmail.com
-### Christophe Malaterre
-- Email: malaterre.christophe@uqam.ca
-### Charles H. Pence
-- Email: charles.pence@uclouvain.be
 ### Francis Lareau
 - Email: francislareau@hotmail.com
+### Charles H. Pence
+- Email: charles.pence@uclouvain.be
+### Christophe Malaterre
+- Email: malaterre.christophe@uqam.ca
+
 ## Acknowledgments
 The authors are grateful to JSTOR and Oxford University Press for providing access to Biometrika articles for text-mining purposes. The authors thank the audiences of a 2021 TEC seminar at UQAM, and of the 2021 SPS congress for comments on an earlier version of the manuscript. N.B was supported by fellowships from the Canada Research Chair in Philosophy of the Life Sciences at UQAM and the CIRST. F.L. acknowledges funding from the Fonds de recherche du Québec - Société et culture (FRQSC-276470) and the Canada Research Chair in Philosophy of the Life Sciences at UQAM. C.H.P. and C.M. acknowledge funding from the XIe Commission mixte permanente Québec–Wallonie-Bruxelles (Grant 11.805). C.M. acknowledges funding from Canada Foundation for Innovation (Grant 34555) and Canada Research Chairs (CRC-950-230795).
