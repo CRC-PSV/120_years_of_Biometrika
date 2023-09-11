@@ -26,7 +26,7 @@ treetagger_path = "C:\TreeTagger"
 # #################################################### Initialize project paths
 #==============================================================================
 
-main_path = os.path.join("D:\projetjstor\Biometrika")
+main_path = os.path.join("your_path")
 os.chdir(main_path)
 
 #==============================================================================
